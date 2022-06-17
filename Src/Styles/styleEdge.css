@@ -74,8 +74,8 @@ section {
 }
 
 #navbar > h1 { 
-    font-size: 40px;
-    font-weight: 600;
+    	font-size: 40px;
+    	font-weight: 600;
 	display: flex;
 	justify-content: center;
 	align-items: center;
@@ -161,7 +161,7 @@ section {
 /*======= Navbar =======*/
 #navbar {
 	display: flex;
-	position: sticky;
+	position: fixed;
 	top: 0;
 	background: var(--primary-bg);
 	color: var(--light);

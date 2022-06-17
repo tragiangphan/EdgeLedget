@@ -1,59 +1,8 @@
-/*======= Variables =======*/
-:root {
-	--primary-color: #77d888;
-	--darker: #65b974;
-	--primary-bg: #333333;
-	--light: #eeeeee;
-}
-
-/*======= Styles =======*/
-* {
-	box-sizing: border-box;
-	margin: 0;
-	padding: 0;
-}
-
-body {
-	font-family: "Readex Pro", sans-serif;
-	line-height: 1.5;
-}
-
-a {
-	font-weight: 700;
-	text-decoration: none;
-}
-
-p {
-	margin: 0.75rem 0;
-}
-
-label {
-	font-size: 18px;
-	font-weight: 700;
-}
-
-input {
-	padding-left: 10px;
-	background-color: rgba(255, 255, 255, 0.03);
-	width: 400px;
-	height: 40px;
-	font-family: "Readex Pro", sans-serif;
-	margin-right: 10px;
-	margin-top: 10px;
-	border: none;
-	border-bottom: var(--primary-color) solid 2px;
-	color: #f4f4f4;
-	font-size: 16px;
-}
-
-section {
-	padding: auto  50px ;
-}
 
 /*======= Utility Classes =======*/
 .container {
 	max-width: 1100px;
-	margin: 40px auto;
+	margin: 2rem auto;
 	padding: 0 2rem;
 	overflow: hidden;
 }
@@ -66,7 +15,8 @@ section {
 	color: var(--primary-color);
 }
 
-.logo > img {
+.logo i {
+	font-size: 45px;
 	margin-top: 5px;
 	margin-right: 10px;
 	max-width: 50px;
@@ -74,15 +24,14 @@ section {
 }
 
 #navbar > h1 { 
-    	font-size: 40px;
-    	font-weight: 600;
+    font-size: 40px;
+    font-weight: 600;
 	display: flex;
 	justify-content: center;
 	align-items: center;
 }
 
 .bg-light {
-	background: var(--light);
 	color: var(--primary-bg);
 }
 
@@ -111,7 +60,7 @@ section {
 }
 
 .py-1 {
-	padding: 1.5rem 0;
+	padding: 2rem 0;
 }
 .py-2 {
 	padding: 2rem 0;
@@ -158,6 +107,10 @@ section {
 	border-bottom: #cccccc8e
 	 dotted 1px;
 }
+
+#whats, #whos, #contacts {
+	padding-top: 10px;
+}
 /*======= Navbar =======*/
 #navbar {
 	display: flex;
@@ -191,8 +144,9 @@ section {
 #showcase {
 	background: var(--primary-bg) url("../../Assets/Img/showcase.jpg") no-repeat center;
 	background-size: cover;
-	height: 90.5vh;
+	height: 90vh;
 	color: var(--light);
+	margin-top: 4.75rem;
 }
 
 #showcase .showcase-content {
@@ -205,7 +159,7 @@ section {
 	height: 100%;
 	padding: 0 2rem;
 	/* Overlay */
-	position: relative;
+	/* position: absolute; */
 	top: 0;
 	left: 0;
 	right: 0;

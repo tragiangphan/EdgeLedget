@@ -1,0 +1,52 @@
+/*======= Variables =======*/
+:root {
+	--primary-color: #77d888;
+	--darker: #65b974;
+	--primary-bg: #333333;
+	--light: #eeeeee;
+}
+
+/*======= Styles =======*/
+* {
+	box-sizing: border-box;
+	margin: 0;
+	padding: 0;
+}
+
+body {
+	font-family: "Readex Pro", sans-serif;
+	line-height: 1.5;
+	background: var(--light);
+}
+
+a {
+	font-weight: 700;
+	text-decoration: none;
+}
+
+p {
+	margin: 0.75rem 0;
+}
+
+label {
+	font-size: 18px;
+	font-weight: 700;
+}
+
+input {
+	padding-left: 10px;
+	background-color: rgba(255, 255, 255, 0.03);
+	width: 400px;
+	height: 40px;
+	font-family: "Readex Pro", sans-serif;
+	margin-right: 10px;
+	margin-top: 10px;
+	border: none;
+	border-bottom: var(--primary-color) solid 2px;
+	color: #f4f4f4;
+	font-size: 16px;
+}
+
+section {
+	padding: auto  50px ;
+}

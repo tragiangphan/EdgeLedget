@@ -1,4 +1,5 @@
 # EdgeLedger - A static web for company 
+
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/BNbm4jKFVC31dYUaoh/giphy.gif" width="250"/>
 </div>
@@ -26,4 +27,4 @@ It has three basic sections:
 -  -->
 
 ## Wanna see my web?  
-<a href="https://river-tea.github.io/EdgeLedget/"><img src="https://media.giphy.com/media/mO9jsfWOhd6oX39rKb/giphy.gif" width=150> </a>
+<a href="https://river-tea.github.io/EdgeLedget/"><img src="https://media.giphy.com/media/Jd1fqcd0zDwWByeDKa/giphy.gif" width=150> </a>

@@ -1,4 +1,4 @@
-# EdgeLedger - A static web for company 
+# EdgeLedger - A static web for company <a href="https://river-tea.github.io/EdgeLedget/"><img src="https://media.giphy.com/media/56VXDZLtE7yxrxKf74/giphy.gif" width=80> </a>
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/BNbm4jKFVC31dYUaoh/giphy.gif" width="250"/>
@@ -25,6 +25,3 @@ It has three basic sections:
 
 <!-- ## Acknowledgments
 -  -->
-
-## Wanna see my web?  
-<a href="https://river-tea.github.io/EdgeLedget/"><img src="https://media.giphy.com/media/Jd1fqcd0zDwWByeDKa/giphy.gif" width=150> </a>

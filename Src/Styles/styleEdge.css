@@ -144,9 +144,9 @@
 #showcase {
 	background: var(--primary-bg) url("../../Assets/Img/showcase.jpg") no-repeat center;
 	background-size: cover;
-	height: 90vh;
+	height: 100vh;
 	color: var(--light);
-	margin-top: 4.75rem;
+	top: 4.75rem;
 }
 
 #showcase .showcase-content {

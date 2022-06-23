@@ -5,7 +5,7 @@
 </div>
 
 ## About EdgeLedger
-I had clone this web base on template of <a href="https://river-tea.github.io/EdgeLedget/">EdgeLedger</a>.
+I had clone this web base on template of <a href="http://edgeledger.egbertpc.com/">EdgeLedger</a>.
 It has three basic sections:
 - Header 
   - Navbar

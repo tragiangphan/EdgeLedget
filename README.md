@@ -3,7 +3,16 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/BNbm4jKFVC31dYUaoh/giphy.gif" width="250"/>
 </div>
+<div id="badges" align="center">
+  <a href="#">
+    <img src="https://img.shields.io/badge/%F0%9F%93%91%20Learning-D9534F?logo=learning&logoColor=white&style=for-the-badge" alt="Discord Badge"/>
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/%F0%9F%9A%80%20basic-069A8E?logo=learning&logoColor=white&style=for-the-badge" alt="Discord Badge"/>
+  </a>
+</div>
 
+    
 ## About EdgeLedger
 I had clone this web base on template of <a href="http://edgeledger.egbertpc.com/">EdgeLedger</a>.
 It has three basic sections:
